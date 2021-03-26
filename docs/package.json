@@ -1,0 +1,19 @@
+{
+  "name": "s-summary.github.io",
+  "version": "0.0.1",
+  "description": "it-study summary",
+  "main": "index.js",
+  "authors": {
+    "name": "sisi",
+    "email": "ksisi1755@gmail.com"
+  },
+  "repository": "it-study summary/s-summary.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
